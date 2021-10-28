@@ -83,6 +83,16 @@ In order to support developers in coming up with many different successful strat
 ## Long Term Vision
 It would be cool, if we could contribute to making Uniswap the “One-Stop-Shop Solution” when it comes to optimizing capital efficiencies & risk-/ reward ratios.
 
+## Team
+Michael (Lead Developer & Domain Expert)  
+Bastian (Projektkoordinator)  
+Daniel (Designer & Domain Expert)  
+Roman (Designer & Domain Expert)  
+Sohil (Domain Expert)  
+Felix (Developer)  
+Frederic (Developer)  
+Nikita (Developer)  
+Niko Lockenvitz (Developer)  
 
 ## Grants 
 We continue developing the solution without direct rewards or grants. If we would receive any grants for this project, we would invest it into dedicated, wisely chosen VoFarm Pools - just like the users of the VoFarm would do. We think this is a good signal - encouraging users to try it out - as we as the development team believe in the success of the VoFarm. We would only withdraw gains which where generated out of those grants as a reward for our work. We are currently figuring out how this can be ensured algorithmically via the corresponding VFPool smart contract.  
