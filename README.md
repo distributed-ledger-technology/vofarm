@@ -75,10 +75,11 @@ The volatility farming project requires for successful strategies. Therefore the
 In order to support developers in coming up with many different successful strategies (which is good for the overall stability), we want to provide features like: 
 
 1. Templates for Price Risk Insurance (unopinionated Hedges) for LP focused strategies   
-2. Simulation mode / back testing - leveraging e.g. the [Uniswap V3 Fee Calculator](https://uniswapv3.flipsidecrypto.com/)      
-3. simplified connection to oracles which reveal fundamentals at early stages   
+2. Implement an appropriate UI (option 1: similar to LP - option2: [standalone](https://www.figma.com/file/BXL9ESnJsqgLTkGfhxnaSS/VOLATILITY-FARMING?node-id=0%3A1))
+3. Simulation mode / back testing - leveraging e.g. the [Uniswap V3 Fee Calculator](https://uniswapv3.flipsidecrypto.com/)      
+4. simplified connection to oracles which reveal fundamentals at early stages   
 5. automated security audits for new pools / strategies before we list them in our VoFarm Strategy Explorer   
-6. optimize the incentive structure to encourage the exploration of new technologies which can not only serve financial improvements but also ecological and cultural improvements   
+6. optimize the incentive structure to encourage the exploration of new technologies which can not only serve financial improvements but also ecological and cultural improvements (incl. [gitcoin](https://www.figma.com/file/BXL9ESnJsqgLTkGfhxnaSS/VOLATILITY-FARMING?node-id=0%3A1) collaboration)     
 
 
 ## Long Term Vision
