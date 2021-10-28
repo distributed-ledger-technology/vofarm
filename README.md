@@ -64,7 +64,8 @@ The wallet which deployed the smart contract defining the specific vf pool + str
 To keep things safe and simple the strategy of a specific pool can never be changed. To bet on a different strategy one can move one's capital from one pool to another - ... thanks to layer 2 scaling (e.g. via Arbitrum).
 
 ## Incentive Engineering
-![VF Schaubild 2](https://user-images.githubusercontent.com/43786652/139266218-84fac94e-46df-4cbc-b355-c69cde2865a9.png)
+![VF Schaubild 4](https://user-images.githubusercontent.com/43786652/139298405-dba558ac-4eba-4279-97e0-d6de54b2dc70.png)
+
 
 The incentives shall be aligned along decentralization, fairness, simple market access, transparency, ever improving capital efficiencies and wise investments for public goods.     
 
