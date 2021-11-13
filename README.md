@@ -38,6 +38,7 @@ An investment advice can e.g. recommend to:
 
 ### Example VoFarm Pools / Strategies
 <img src="https://user-images.githubusercontent.com/43786652/139266230-d3123e62-098c-466b-8712-915985f8961d.png" alt="drawing" width="700"/>  
+For concrete working examples (currently still mainly centralized approaches) see https://deno.land/x/vofarm.  
 
 #### ETH Price Prediction Based Strategies
 The following example implementation optimizes capital efficiencies around ETH/DAI by basically applying the following moves:  
